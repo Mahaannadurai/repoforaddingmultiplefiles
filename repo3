@@ -1,0 +1,38 @@
+direcotry creation mkdir file name
+cd directory name
+create files and add content or
+choose contnent full file already in your hands
+then go into that directory 
+cd directory name
+
+
+git init
+git status
+ls
+git add filename or .
+git status(show green mark for identify whether our file added or not)
+git remote add origin "repositroy ssh link copy paste here"
+git remote -v
+in case need git fetch
+git commit -m "give your command lines"
+git status
+git push origin main
+give phaspharase key here
+then go and check github repo
+
+before all you created newrepo in your github desktop 
+
+again you want to add files
+
+just create file in same directory
+
+directly check git status
+and add files git add filename or .
+then git commit -m "commands"
+git push origin main
+
+no need again give git remote add origin ssh link here that means repo ssh link
+
+thankyou
+
+
